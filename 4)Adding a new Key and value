@@ -1,0 +1,5 @@
+Adding a new Key and value:
+(similar to updating)
+a={"Navin":21,"sachin":23,"Niki":44,"Saran":56}
+a["Saveetha"]=70
+print(a)
