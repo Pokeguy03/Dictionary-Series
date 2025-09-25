@@ -1,0 +1,4 @@
+Updating the specific Value:
+a={"Navin":21,"sachin":23,"Niki":44,"Saran":56}
+a["Navin"]=50
+print(a)
