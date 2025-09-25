@@ -1,0 +1,3 @@
+Access and print the age of one specific person from the dictionary.
+a={"Navin":21,"sachin":23,"Niki":44,"Saran":56}
+print(a["Navin"])
