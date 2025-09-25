@@ -1,0 +1,3 @@
+Create a dictionary to store the names and ages of 5 people. Print the dictionary.
+a={"Navin":21,"sachin":23,"Niki":44,"Saran":56}
+print(a)
