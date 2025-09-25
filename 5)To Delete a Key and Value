@@ -1,0 +1,9 @@
+a={"Navin":21,"sachin":23,"Niki":44,"Saran":56}
+del a['sachin']
+print(a)
+
+# (or)
+
+a={"Navin":21,"sachin":23,"Niki":44,"Saran":56}
+b=a.pop('Navin')
+print(a)
